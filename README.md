@@ -2,6 +2,8 @@
 <h3 align="center">A programming student at the beginning of her career</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iasmim21" alt="iasmim21" /> </p> -->
 
+- ⚡ Computer technician by [IFC](https://ifc.edu.br/)
+
 - 🔭 Computer science student at [UNESC](http://www.unesc.net/portal/)
 
 - 🚀 Learning JavaScript, HTML, CSS, NodeJS and React
@@ -16,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=iasmim21&show_icons=true" alt="maykbrito"/>  -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=iasmim21&show_icons=true" />  -->
 </p>
 
 <p align="center">
